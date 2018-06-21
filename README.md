@@ -9,7 +9,7 @@ Installation
 
 Before installing this app, installing node is required.
 ```bash
-$ git clone https://gitlab.com/kareemadel/weather.git
+$ git clone https://github.com/kareemadel/weather.git
 $ cd weather
 $ npm install
 ```
